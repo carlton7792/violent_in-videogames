@@ -28,3 +28,6 @@
 body{
     font-family: 'Play', sans-serif;
 }
+#static{
+    width: 150px;
+}
